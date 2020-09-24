@@ -1,6 +1,0 @@
-{"ALG_DESC": "Allows to plot a Moran correlogram. During the calculation, matrices are row-normalized (style « W »). Other styles exist : it can be changed by editing the code.",
- "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
- "Vector_input":"Input point layer",
- "Number_k_near_neighbours":"Number of neighbours for each observation",
- "Maximum_lag_order":"Depth of neighbourhood",
- "Output":"Moran correlogram"}

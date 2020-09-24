@@ -1,3 +1,0 @@
-{"ALG_DESC": "Allows to calculate a correlation index between two fields (column) of a vector layer. Users have to select the two numerical fields for which they need the correlation index..",
- "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin", "Vector_input": "Input vector layer", "Variable_1":"First numerical field", "Variable_2":"Second numerical field",
- "Correlation_method":"Several indexes are available : Kendall, Spearman, Pearson", "Output":"Correlation index"}

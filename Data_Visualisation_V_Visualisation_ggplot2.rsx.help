@@ -1,9 +1,0 @@
-{"ALG_DESC": "Allows to generate R graphics from a vector layer using the ggplot 2 package",
- "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
- "Vector_input":"Input vector layer",
- "Graph_type":"Several graphs are available : Point, Line, Boxplot, Histogram",
- "X_axis":"Numerical field on the x-axis",
- "Y_axis":"Numerical field on the y-axis",
- "Color_type": "The way the graph is colored : No colour / Colored / Filled (mostly for boxplots)",
- "Use_facet_1":"The use of facets to categorize the displayed data (users have to select whether they want facets or not, and then choose the field to be used as facet).",
- "Font_size_X_axis":"Here and beyond, all the font sizes for the graph"}

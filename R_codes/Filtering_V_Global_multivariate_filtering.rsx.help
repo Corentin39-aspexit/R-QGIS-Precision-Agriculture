@@ -1,0 +1,10 @@
+{"ALG_DESC": "Allows to perform a multivariate filtering to remove outliers from a vector layer. The filtering methods are NOT spatialized, they only look at the global distribution in the data.",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input vector layer",
+ "Filtering_method":"(1) DBSCAN (for two variables) : the main group of observations is considered normal. Remaining observations are considered outliers (inspired from  Leroux et al. 2018 - A general method to filter out defective spatial observations from yield mapping datasets) \n (2)Mahalanobis distance (for two variables and more). Robust covariance matrix is constructed. The method assumes that data is normally distributed.",
+ "Percentile":"Find the Xth percentile of the Chi-Squared distribution (for Mahalanobis method only)",
+ "Espilon_neighbourhood":"For the DBSCAN method",
+ "Minimum_points_in_epsilon_region":"For the DBSCAN method",
+ "Outlying_borders" : "(for DBSCAN method only) : whether points at the border of the main group are considered outliers or not",
+ "Outliers_handling":"whether outliers are marked or removed",
+ "Vector_output":"Outliers"}

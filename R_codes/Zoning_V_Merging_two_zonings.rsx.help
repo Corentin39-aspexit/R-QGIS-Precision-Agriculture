@@ -1,0 +1,6 @@
+{"ALG_DESC": "Allows to merge two zonings of the same field into one single zoning. The final zoning can be considered as a microzoning that combines the zones of both initial zonings",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Zoning_1":"First_zoning",
+ "Zoning_2":"Second_zoning",
+ "Output":"Merged zoning"
+}

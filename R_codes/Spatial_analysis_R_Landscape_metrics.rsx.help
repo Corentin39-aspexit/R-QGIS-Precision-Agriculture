@@ -1,0 +1,6 @@
+{"ALG_DESC": "Allows to calculate a set of landscape ecological metrics on a classified raster. Several indexes are available : Shannon, Richness, Cohesion, Division, Contagion, Interspersion and juxtaposition",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Raster_input":"Input classified raster layer",
+ "Neighbourhood":"(1) Rook \n  (2) Queen",
+ "Indexes":"Table with landscape metrics",
+ "Geometry" :"Perimeter and area of zones"}

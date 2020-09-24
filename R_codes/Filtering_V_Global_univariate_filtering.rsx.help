@@ -1,0 +1,6 @@
+{"ALG_DESC": "Allows to perform a univariate filtering to remove outliers from a vector layer. The filtering methods are NOT spatialized, they only look at the global distribution in the data.",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input vector layer",
+ "Filtering_method":"(1) Normal : outliers removal assuming normal distribution in the data. Outliers are removed if outstide the range mean+/- 3 standard deviations \n (2) Tukey : Tukey interquartile method \n (3) Skewed : outliers removal when data is skewed (inspired from Hubert, M., & Van der Veeken, S. (2008). Outlier detection for skewed data)",
+ "Outliers_handling":"whether outliers are marked or removed",
+ "Vector_output":"Outliers"}

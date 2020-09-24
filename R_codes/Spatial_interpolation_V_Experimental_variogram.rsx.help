@@ -1,0 +1,7 @@
+{"ALG_DESC": "Generates an experimental variogram from a user-selected numeric field (column) in a vector layer. The user can choose the maximum distance up to which the experimental variogram is constructed, and the distance step (lag) for which the semi-variance is calculated. The vector layer must be projected !",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input point layer",
+ "Max_dist_vario":"maximum distance up to which the experimental variogram is constructed",
+ "Lag":"distance step for which the semi-variance is calculated",
+ "trend":"Spatial or constant trend in the data",
+ "Variogram_data":"A spreadsheet with the input data of the experimental variogram (number of peers, lags, semi-variances...)"}

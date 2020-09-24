@@ -1,0 +1,6 @@
+{"ALG_DESC": "Allows to generate a zoning based on the R geozoning package (inspired from Loisel et al. 2019 – An optimisation-based approach to generate interpretable within-field zones",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input point layer",
+ "Step":"Related to the iterations of the algorithms. The higher the step parameter, the longer the computation time ; but the algorithm might find better zonings",
+ "Threshold":"Minimal difference in value between zones"
+}

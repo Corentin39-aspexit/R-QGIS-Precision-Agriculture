@@ -1,0 +1,3 @@
+{"ALG_DESC": "Allows to reclassify a raster into a user-defined number of classes using several classification methods.",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin", "Raster_input": "Input raster layer", "Number_classes":"Number of classes in the final raster",
+ "Classification_method":"Several methods are available : Equal-intervals, Quantiles, K-means, Jenks", "Output":"Classified raster"}

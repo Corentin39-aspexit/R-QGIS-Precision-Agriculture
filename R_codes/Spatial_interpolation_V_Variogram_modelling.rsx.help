@@ -1,0 +1,9 @@
+{"ALG_DESC": "Allows to adjust a theoretical variogram to an experimental variogram. The adjustment is done automatically after entering the initialization values of the theoretical variogram (range, nugget effect, sill, variogram model). Several variogram models can be parameterized: Gaussian, Spherical, Linear, Exponential. The user can choose the maximum distance up to which the experimental variogram is constructed, and the distance step (lag) for which the semi-variance is calculated. Users get variogram-based variability indexes (see Leroux and Tisseyre (2018) How to measure and report within-field variability: a review of common indicators and their sensitivity). The vector layer must be projected!",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input point layer",
+ "Max_dist_vario":"maximum distance up to which the experimental variogram is constructed",
+ "Lag":"distance step for which the semi-variance is calculated",
+ "trend":"Spatial or constant trend in the data",
+ "Variogram_fitting":"A spreadsheet with the parameters of the theoretical variogram",
+ "Indices_SP":"A spreadsheet with spatial structure indicators calculated from the theoretical variogram model. \n (1) Cambardella index \n (2)MCD index" 
+}

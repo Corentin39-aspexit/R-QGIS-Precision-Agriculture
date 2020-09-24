@@ -1,0 +1,6 @@
+{"ALG_DESC": "Allows to generate fuzzy rules for a numerical field.",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Input_vector":"Input vector layer",
+ "Shape":"Several shapes of the membership function are available : triangular, trapezoidal, trapezoidal inferior, trapezoidal superior",
+ "Rule_name" : "prefix of the new column name that will be based on the specified fuzzy rule",
+ "Output":"A new column in the vector layer specifying the membership of each observation"}

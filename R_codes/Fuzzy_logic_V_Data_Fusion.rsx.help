@@ -1,0 +1,5 @@
+{"ALG_DESC": "Allows to aggregate multiple numerical fields that were previously assigned a membership function. Because the function requires users to set lots of parameters (membership functions for each numerical fields), users are asked to edit the code manually. The function is available on the GeoFIS software also (https://www.geofis.org/en/documentation-en/data-fusion/).",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input vector layer",
+ "Aggregation": "(1) WAM (Weighted arithmetic mean) \n (2) OWA (Ordered Weighted average)",
+ "Geometry":"A new column in the vector layer specifying the membership of each observation"}

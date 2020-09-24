@@ -1,0 +1,5 @@
+{"ALG_DESC": "Allows to build tesselations from point vector data",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input point layer",
+ "Output_voronoi":"Voronoi polygons",
+ "Output_neighbours":"List of neighbours of each point"}

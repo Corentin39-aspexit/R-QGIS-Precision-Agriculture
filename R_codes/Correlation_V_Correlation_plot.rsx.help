@@ -1,0 +1,4 @@
+{"ALG_DESC": "Allows to compute a correlation plot between all the numerical variables available. The layer should solely contain numerical variables. A categorical variable can be used to color the correlation plots in different groups (ex : a column with values of 0 for group A and values of 1 for group B).",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin", "Vector_input": "Input vector layer", "Color_factor":"Yes if a field will be used to categorize the data. No otherwise" ,
+ "Variable_color":"Field that is used to categorize the data",
+ "R Plots":"Correlation plot"}

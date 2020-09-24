@@ -1,0 +1,7 @@
+{"ALG_DESC": "For a given point layer oriented in a particular direction (following rows or a machine passage for example), the function builds a grid oriented in the majority direction of the points. The size of the grid is defined by the user.  Prerequisite: The order of the points in the layer must follow the data acquisition. The meshes of the grid does not need to be squared ",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input point layer",
+ "Contour":"Contour of the field",
+ "Mesh_length":"Length of the mesh",
+ "Mesh_width":"Width of the mesh",
+ "Final_grid":"Oriented grid"}

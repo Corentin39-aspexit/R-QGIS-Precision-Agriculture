@@ -1,6 +1,0 @@
-{"ALG_DESC": "Allows to carry out a sampling in a polygon. The number of points is defined by the user and several sampling schemes are available",
- "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
- "Vector_input":"Input vector layer",
- "Sampling_method":"(1) Random \n  (2) regular \n (3) stratified \n (4) Non-aligned \n (5) Clustered",
- "Number_samples":"Number of samples",
- "Output":"Sampling points"}

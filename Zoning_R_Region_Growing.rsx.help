@@ -1,9 +1,0 @@
-{"ALG_DESC": "Allows to generate a zoning (region growing algorithm) from a raster. Inspired from Leroux et al. (2018)",
- "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
- "Raster_input":"Input raster layer",
- "Contour":"Contour of the field",
- "IDW_smoothing" : "Yes/no. In case the initial data is very noisy",
- "Size_grid_interpolation" : "(applies if IDW smoothing is performed)",
- "IDW_power" : "power of interpolation (applies if IDW smoothing is performed)",
- "Dist_border" : "distance to edges of the field. Prevent core of zones to be too close to borders to avoid border effects"
-}

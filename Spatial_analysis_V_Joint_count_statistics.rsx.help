@@ -1,6 +1,0 @@
-{"ALG_DESC": "Allows to calculate joint count statistics (for categorical variables)",
- "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
- "Vector_input":"Input point layer",
- "Distance_neighbourhood":"Points separated by a distance below the distance neighbours are considered neighbours in space",
- "Method":"(1) Spatial : spatial weights matrix in weights list form \n (2) Monte-Carlo : permutations",
- "Output":"Joint count statistics"}

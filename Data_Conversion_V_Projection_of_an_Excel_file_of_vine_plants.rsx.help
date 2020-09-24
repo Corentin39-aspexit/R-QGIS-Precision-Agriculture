@@ -1,4 +1,0 @@
-{"ALG_DESC": "Allows to transform an Excel spreadsheet identifying vine stocks (each cell of the spreadsheet represents a vine stock) into a geolocalized vector layer. It seems that loading tables does not work when manipulating R within QGIS. The code should then be used in R outside of QGIS.",
- "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
- "Contour_lines":"CSV file",
- "Output":"Spatial dataset"}

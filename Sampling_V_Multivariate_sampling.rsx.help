@@ -1,7 +1,0 @@
-{"ALG_DESC": "Allows to perform a multivariate sampling via a conditioned Latin Hypercube method. The layer should only contain the numeric fields that will be used for sampling.",
- "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
- "Vector_input":"Input vector layer",
- "Sampling_method":"Conditioned Latin Hypercube Sampling",
- "Coordinates_included" : "Whether coordinates are considered as numerical fields also or not"
- "Number_samples":"Number of samples",
- "Output":"Sampling points"}

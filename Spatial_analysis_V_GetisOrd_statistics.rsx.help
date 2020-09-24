@@ -1,5 +1,0 @@
-{"ALG_DESC": "Allows to calculate Getis Ord spatial statistics",
- "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
- "Vector_input":"Input point layer",
- "Distance_neighbours":"Points separated by a distance below the distance neighbours are considered neighbours in space",
- "Output":"Getis Ord statistics"}

@@ -1,9 +1,0 @@
-{"ALG_DESC": "Allows to generate a raster layer according to a user-defined spatial structure. For the spatial footprint considered by the user, the user must fill in the mean of the attribute, its variance, and the components of the variogram (range, nugget effect, sill).",
- "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
- "Vector_input":"Input point layer. Does not apply here because the field is simulated",
- "Contour" : "Contour of the theoretical field",
- "Sampling method":"Sampling within the contour. Several methods are available",
- "Number_points":"Number of points to be sampled within the contour",
- "Mean_variable": "Mean value of the future variable",
- "Coefficient_of_variation":"Coefficient of variation of the future variable",
- "Simulated_data" :"Theoretical field"}

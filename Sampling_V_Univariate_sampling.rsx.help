@@ -1,7 +1,0 @@
-{"ALG_DESC": "Allows to sample a user-defined number of points in a vector layer. Several sampling methods are available. The layer should only contain the numeric fields that will be used for sampling",
- "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
- "Vector_input":"Input vector layer",
- "Sampling_method":"(1) Random \n  (2) Quantiles \n (3) K-means",
- "Number_groups":"if the objective is to perform a stratified sampling (only for quantiles and k-means)",
- "Number_samples_in_each_group":"Number of samples (groups are not considered for the random method)",
- "Output":"Sampling points"}

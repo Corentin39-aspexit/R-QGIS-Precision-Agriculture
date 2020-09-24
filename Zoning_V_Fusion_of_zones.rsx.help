@@ -1,7 +1,0 @@
-{"ALG_DESC": "Allows to merge the zones of a zoning according to constraints set by users. The final number of zones is smaller than the initial number of zones",
- "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
- "Zoning":"Initial zoning",
- "Method": "(1) Number zones : Zones are merged iteratively until the final number of zones is reached \n (2) Minimal distance : Zones are merged iteratively until the threshold difference between zones is reached \n (3) Both : Zones are merged iteratively until the number of zones is reached and the constraints on the threshold difference between zones is respected.",
- "Final_number_zones":"Final number of zones in the zoning",
- "Threshold":"Minimal difference in value between zones"
-}

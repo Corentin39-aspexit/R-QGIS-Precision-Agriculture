@@ -1,0 +1,3 @@
+{"ALG_DESC": "Performs a modified version of the t test to assess the correlation between two spatial processes. Users have to select the two numerical fields for which they need the correlation index.",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin", "Vector_input": "Input vector layer", "Variable_1":"First numerical field" , "Variable_2":"Second numerical field",
+ "Correlation":"Correlation index with p-value adjusted for spatial autocorrelation"}

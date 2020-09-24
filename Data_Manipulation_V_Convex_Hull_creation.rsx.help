@@ -1,0 +1,4 @@
+{"ALG_DESC": "Allows to build a convex envelope (contour) around a point vector layer",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input point layer",
+ "Contour_points":"Contour of the field"}

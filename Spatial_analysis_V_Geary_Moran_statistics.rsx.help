@@ -1,0 +1,9 @@
+{"ALG_DESC": "Allows to calculate Geary or Moran spatial statistics. During the calculation, matrices are row-normalized (style « W »). Other styles exist : it can be changed by editing the code",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input point layer",
+ "Variable" : "Numerical field on which statistic should be calculated",
+ "Number_k_near_neighbours":"Number of neighbours for each observation",
+ "Maximum_lag_order":"Depth of neighbourhood",
+ "Index":"(1) Geary \n (2) Moran",
+ "Method": "(1) Spatial : spatial weights matrix in weights list form \n (2) Monte-Carlo : permutations",
+ "Output":"Moran/Geary statistics"}

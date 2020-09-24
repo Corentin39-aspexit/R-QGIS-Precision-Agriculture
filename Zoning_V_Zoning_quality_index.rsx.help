@@ -1,0 +1,9 @@
+{"ALG_DESC": "Allows to calculate a zoning quality indicator in relation to available auxiliary information. The indicator should fill in the zoning vector layer, and the vector layer to which the zoning is to be compared. Several indices are available. Make sure that the zoning and underlying points have the same projection. If the zoning comes from a previous zoning algorithm, make sure that the zoning has been saved and is not a temporary layer",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Zoning":"Zoning of the field",
+ "Points":"Point layer for which the quality of zoning need to be adressed",
+ "Index":" (1) Variance reduction (from Bobryk et al., 2016 - Validating a Digital Soil Map with Corn Yield Data for Precision Agriculture Decision Support) \n (2) Zoning Opportunity Index (inspired from Roudier et al. 2011 - A technical opportunity index adapted to zone-speciﬁc management)",
+ "Machine_width":"(for Zoning Opportunity index) : machine footprint",
+ "Step":"(for Zoning Opportunity index) : Sensibility of the machinery. A step of 5 means that the machine is able to apply two treatments levels differing from 5 units.",
+ "Output":"Zoning quality index"
+}

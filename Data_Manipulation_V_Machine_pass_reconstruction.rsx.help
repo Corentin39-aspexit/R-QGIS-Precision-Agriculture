@@ -1,0 +1,5 @@
+{"ALG_DESC": "For a point vector layer acquired following a machine passage by a sensor onboard the machine (e.g. a yield sensor onboard a combine harvester, a dose level sprayed by a sprayer), the function reconstructs the spatial footprint of the machine at the level of each collected observation. This function makes it possible to find out whether or not there are overlaps between the different machine passes. The user must enter the working width of the machine.",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input point layer",
+ "Variable":"Numerical field. Not very useful here",
+ "Output":"Spatial footprint polygons"}

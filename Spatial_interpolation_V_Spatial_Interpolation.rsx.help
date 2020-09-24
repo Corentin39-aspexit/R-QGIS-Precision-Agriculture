@@ -1,0 +1,10 @@
+{"ALG_DESC": "Generates the interpolation of a user-defined numeric field (column) of a vector layer. A raster is generated. The user can choose the size of the interpolation grid and the interpolation method. ",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input point layer",
+ "Contour":"Contour of the field",
+ "Method":" (1) Inverse distance weighting: the user can choose a slightly finer weighting method (inverse, exponential, ...), and choose the interpolation power. \n (2) Point kriging: the user fills in a theoretical variogram model. The interpolation map is accompanied by a kriging variance map (interpolation uncertainty). \n (3) Block kriging : the user enters a theoretical variogram model. The interpolation map is accompanied by a kriging variance map (interpolation uncertainty).",
+ "IDW_power" : "power of interpolation (for IDW method only)",
+ "Variogram model": "(for point and block kriging method only)",
+ "Max_dist_vario" : "maximum distance up to which the experimental variogram is constructed",
+ "Lag" : "distance step for which the semi-variance is calculated",
+ "Interpolation_map":"Final raster after interpolation of the data"}

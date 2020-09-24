@@ -1,0 +1,4 @@
+{"ALG_DESC": "Allows to convert elevation contour lines into elevation points",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Contour_lines":"Line layer",
+ "Output":"Point layer"}

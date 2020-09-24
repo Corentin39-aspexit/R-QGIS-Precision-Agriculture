@@ -1,0 +1,10 @@
+{"ALG_DESC": "Calculate, for a given variogram model, ordinary block kriging standard errors as a function of sampling spaces and block sizes (ossfim function in the gstat package)",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input point layer",
+ "Model":"Variogram model",
+ "Min_block_size":"Minimum size of grid to be tested",
+ "Max_block_size":"Maximum size of grid to be tested",
+ "Min_spacing":"Minimum distance between sampling points",
+ "Max_block_size":"Maximum distance between sampling points",
+ "Max_number_neighbours":"Maximum number of neighbours. Mainly to reduce computation time.",
+ "BK_standard_errors":"data frame with columns spacing (the grid spacing), block.size (the block size), and kriging.se (block kriging standard error)"}

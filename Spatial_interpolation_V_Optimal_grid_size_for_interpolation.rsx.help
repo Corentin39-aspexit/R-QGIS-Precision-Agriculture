@@ -1,0 +1,7 @@
+{"ALG_DESC": "Defines the optimal size of an interpolation grid for a given field (column) of a vector layer. The user must fill in the components of the theoretical variogram related to the chosen field [from Tisseyre et al. (2018) How to define the optimal grid size to map high resolution spatial data?",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Contour":"Contour of the field",
+ "Points":"Input point layer",
+ "Max_dist_vario":"maximum distance up to which the experimental variogram is constructed",
+ "Model":"Variogram model",
+ "Grid_size":"Grid size for interpolation"}

@@ -1,0 +1,5 @@
+{"ALG_DESC": "Allows to compute the machinery lag time in high resolution spatial datasets arising from mounted sensors. Spatial observations are shifted until the correlation in the data is maximal.",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input point layer",
+ "Variable":"Numerical field that will be used to calculate the lag time",
+ "Latence_value":"Lag time value and R plot lag time vs. shift"}

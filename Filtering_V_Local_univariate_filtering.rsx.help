@@ -1,0 +1,10 @@
+{"ALG_DESC": "Allows to perform a univariate spatial filtering to remove outliers from a vector layer.",
+ "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
+ "Vector_input":"Input vector layer",
+ "Filtering_method":"(1) CV : Coefficient of variation (inspired from Spekken et al. (2013). A simple method for filtering spatial data \n (2) IDW : Each point value (Zi) is compared to interpolated value from neighbours (Zj). If Zi is outside the range Zj+/- n standard deviations of neighbourood values, the point is considered an outlier (inspired from Simbahan et al., 2004 : Screening yield monitor data improves grain yield maps) \n (3) Moran : remove outliers based on Moran spatial autocorrelation statistics (inspired from Gozdowski et al., 2010 – Evaluation of methods for the detection of spatial outliers in the yield data of winter wheat) \n (4) Normal : outliers removal assuming normal distribution in the data",
+ "Maximum CV":"for CV method only",
+ "Distance_neighbourhood":"Points separated by a distance lower that the neighbourhood distance are considered neighbours in space",
+ "Min_distance_neighbours":"For the Moran method only",
+ "Max_distance_neighbours":"For the Moran method only",
+ "Outliers_handling":"whether outliers are marked or removed",
+ "Vector_output":"Outliers"}

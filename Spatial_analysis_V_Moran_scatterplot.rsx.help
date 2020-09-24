@@ -1,7 +1,0 @@
-{"ALG_DESC": "Allows to plot a Moran scatterplot. During the calculation, matrices are row-normalized (style « W »). Other styles exist : it can be changed by editing the code.",
- "ALG_CREATOR": "LEROUX Corentin", "ALG_HELP_CREATOR": "LEROUX Corentin",
- "Vector_input":"Input point layer",
- "Number_k_near_neighbours":"Number of neighbours for each observation",
- "Output":"Moran scatterplot",
- "Influence_measures_values":"Influential values on different indicators (cook distance etc...)",
- "Influence_measures_values":"Whether values are outliers or not with regard to the different indicators"}
